@@ -1,0 +1,5 @@
+export enum ArmourType {
+	LIGHT_ARMOUR = 'LIGHT',
+	MEDIUM_ARMOUR = 'MEDIUM',
+	HEAVY_ARMOUR = 'HEAVY'
+}
